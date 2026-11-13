@@ -1,0 +1,271 @@
+
+{
+  "hero": {
+    "title": "Ritesh",
+    "year": "2026",
+    "duration": "Backend & Full Stack Developer",
+    "description": "Building practical software solutions through backend engineering, API development, database design and full-stack applications. From authentication and business workflows to scalable systems, I turn ideas into working products.",
+    "image": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=2000&q=85",
+    "video": "",
+    "primaryLabel": "Explore Projects",
+    "primaryUrl": "#projects",
+    "tags": [
+      "Backend Development",
+      "Node.js & Express",
+      "Full Stack Engineering"
+    ]
+  },
+  "featured": [
+    "fire-safety-ims",
+    "trunet",
+    "kisan-sathi"
+  ],
+  "projects": [
+    {
+      "id": "fire-safety-ims",
+      "title": "Fire Safety College IMS",
+      "type": "Featured Project",
+      "year": "2026",
+      "category": "Education · Information Management System",
+      "description": "A comprehensive college management system designed to streamline academic and administrative operations for a Fire Safety Institute. Working on backend architecture, REST APIs, authentication, role-based access, student management, examinations, fees and institutional workflows.",
+      "image": "/images/fire-safety-ims.png",
+      "video": "",
+      "color": "linear-gradient(145deg,#8b2929,#171015 75%)",
+      "mark": "IMS",
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "REST APIs",
+        "JWT",
+        "RBAC",
+        "Postman"
+      ],
+      "role": "Backend Developer",
+      "highlights": [
+        "Modular backend architecture using MVC principles",
+        "JWT authentication and role-based authorization",
+        "Student, faculty and academic management APIs",
+        "Examination and exam form submission workflows",
+        "Fee eligibility validation and pending fee management",
+        "API testing, debugging and database integration"
+      ],
+      "url": "",
+      "github": "",
+      "actionLabel": "View Project"
+    },
+    {
+      "id": "trunet",
+      "title": "TruNet",
+      "type": "Backend Platform",
+      "year": "2026",
+      "category": "Business Operations · Inventory Platform",
+      "description": "A business operations and inventory management platform. Contributing to backend development, authentication, access control, inventory operations, reseller management, stock requests, stock transfers and reporting workflows.",
+      "image": "/images/trunet.png",
+      "video": "",
+      "color": "linear-gradient(145deg,#143c48,#10151d 70%)",
+      "mark": "TN",
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "REST APIs",
+        "JWT",
+        "RBAC",
+        "ExcelJS"
+      ],
+      "role": "Jr. Software Developer",
+      "highlights": [
+        "JWT authentication and role-based permissions",
+        "Modular REST API development",
+        "Inventory and stock management workflows",
+        "Reseller and branch-level operations",
+        "API debugging and database query optimization",
+        "Excel report generation and export debugging"
+      ],
+      "url": "",
+      "github": "",
+      "actionLabel": "View Project"
+    },
+    {
+      "id": "kisan-sathi",
+      "title": "Kisan Sathi",
+      "type": "Full Stack",
+      "year": "2025",
+      "category": "Agriculture · Full Stack Application",
+      "description": "A farmer-support platform that helps farmers discover nearby Bazar Samitis, compare vegetable prices and access historical crop pricing information to make better selling decisions.",
+      "image": "/images/kisan-sathi.png",
+      "video": "",
+      "color": "linear-gradient(145deg,#356a3b,#111d17 75%)",
+      "mark": "KS",
+      "tech": [
+        "React.js",
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "REST APIs"
+      ],
+      "role": "Full Stack Developer",
+      "highlights": [
+        "Admin and Bazar Samiti registration workflows",
+        "Vegetable and crop price management",
+        "Nearby market discovery",
+        "Historical crop price tracking",
+        "React and Spring Boot integration"
+      ],
+      "url": "",
+      "github": "",
+      "actionLabel": "View Project"
+    },
+    {
+      "id": "employee-crud",
+      "title": "Employee CRUD",
+      "type": "Mobile App",
+      "year": "2025",
+      "category": "Mobile · REST API",
+      "description": "A cross-platform employee management application with CRUD operations, connecting a Flutter interface to an Express and MongoDB backend.",
+      "image": "/images/employee-crud.png",
+      "video": "",
+      "color": "linear-gradient(145deg,#344b82,#151322 75%)",
+      "mark": "CRUD",
+      "tech": [
+        "Flutter",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Postman"
+      ],
+      "role": "Full Stack Developer",
+      "highlights": [
+        "Create, read, update and delete operations",
+        "REST API integration",
+        "MongoDB database operations",
+        "Endpoint testing using Postman"
+      ],
+      "url": "",
+      "github": "",
+      "actionLabel": "View Project"
+    },
+    {
+      "id": "subtitle-generator",
+      "title": "Subtitle Generator",
+      "type": "AI Tool",
+      "year": "2026",
+      "category": "AI · Video Automation",
+      "description": "A Python batch-processing tool that extracts audio from MP4 videos, translates Japanese speech into English using Faster-Whisper and generates timestamped SRT subtitle files.",
+      "image": "/images/subtitle-generator.png",
+      "video": "",
+      "color": "linear-gradient(145deg,#71383a,#151014 75%)",
+      "mark": "SUB",
+      "tech": [
+        "Python",
+        "Faster-Whisper",
+        "FFmpeg",
+        "PyTorch",
+        "CUDA"
+      ],
+      "role": "Python Developer",
+      "highlights": [
+        "Batch processing of MP4 videos",
+        "Japanese speech transcription and English translation",
+        "Timestamped SRT subtitle generation",
+        "GPU acceleration with CPU fallback"
+      ],
+      "url": "",
+      "github": "",
+      "actionLabel": "View Project"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "blog-backend",
+      "title": "Inside the Backend",
+      "type": "Blog",
+      "year": "Draft",
+      "category": "Engineering · Backend Development",
+      "description": "Exploring backend engineering through practical experiences with REST APIs, authentication, database modelling, middleware, API security and debugging real-world applications.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=85",
+      "color": "linear-gradient(145deg,#3c3c3c,#111)",
+      "mark": "API",
+      "tech": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs"
+      ],
+      "url": "",
+      "actionLabel": "Read Article"
+    },
+    {
+      "id": "blog-learning",
+      "title": "Learning in Public",
+      "type": "Blog",
+      "year": "Draft",
+      "category": "Technology · Developer Journey",
+      "description": "Documenting the journey of becoming a better software engineer through hands-on projects, debugging challenges, system design, cloud technologies and continuous learning.",
+      "image": "https://images.unsplash.com/photo-1455390582262-044c2880b8b1?auto=format&fit=crop&w=900&q=85",
+      "color": "linear-gradient(145deg,#73533b,#17120f)",
+      "mark": "DEV",
+      "tech": [
+        "Software Engineering",
+        "Cloud Computing",
+        "Learning"
+      ],
+      "url": "",
+      "actionLabel": "Read Article"
+    }
+  ],
+  "connect": [
+    {
+      "id": "linkedin",
+      "title": "LinkedIn",
+      "type": "Connect",
+      "category": "Professional Network",
+      "description": "Let's connect, discuss software engineering, share ideas and explore opportunities to build meaningful technology products.",
+      "image": "https://images.unsplash.com/photo-1521737711867-e3b97375f902?auto=format&fit=crop&w=900&q=85",
+      "color": "linear-gradient(145deg,#155b83,#101b2a)",
+      "mark": "in",
+      "tech": [
+        "Networking",
+        "Professional Growth"
+      ],
+      "url": "https://www.linkedin.com/in/ritesh-chavan01/",
+      "actionLabel": "Connect"
+    },
+    {
+      "id": "github",
+      "title": "GitHub",
+      "type": "Connect",
+      "category": "Code & Open Source",
+      "description": "Explore my repositories, backend implementations, full-stack applications, experiments and development work.",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=85",
+      "color": "linear-gradient(145deg,#343434,#0d0d0d)",
+      "mark": "GH",
+      "tech": [
+        "Code",
+        "Projects",
+        "Development"
+      ],
+      "url": "https://github.com/CHAVANRITZ",
+      "actionLabel": "Visit GitHub"
+    },
+    {
+      "id": "email",
+      "title": "Email Me",
+      "type": "Connect",
+      "category": "Direct Contact",
+      "description": "Have an opportunity, collaboration idea or software project to discuss? Let's connect and build something meaningful.",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=900&q=85",
+      "color": "linear-gradient(145deg,#71383a,#1b1011)",
+      "mark": "@",
+      "tech": [
+        "Collaboration",
+        "Opportunities"
+      ],
+      "url": "mailto:chavanritesh260@gmail.com",
+      "actionLabel": "Send Email"
+    }
+  ]
+}
